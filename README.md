@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osvaldoSilent
 - 👀 I’m interested in web3 and AI
-- 🌱 I’m currently learning Python, Java and Angular
+- 🌱 I’m currently learning Python, Java and React
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me? R=---> Send me a mesage to osvaldsilent@gmail.com
 <!---
